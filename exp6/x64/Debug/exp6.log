@@ -1,0 +1,5 @@
+﻿  func.cpp
+D:\codes\exp6\func.cpp(65,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\codes\exp6\func.cpp(116,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\codes\exp6\func.cpp(131,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  exp6.vcxproj -> D:\codes\exp6\x64\Debug\exp6.exe
